@@ -2,6 +2,10 @@
 
 > A curated list of awesome dance apps and services
 
+## Communities
+
+- [We Dance](https://github.com/we-dance/community)
+
 ## Event List
 
 - [99dances](https://99dances.com/) - Learn to dance, find parties, jobs, buy and sell dance accessories, clothes, shoes, tickets
