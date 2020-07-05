@@ -4,7 +4,7 @@
 
 ## Communities
 
-- [We Dance](https://github.com/we-dance/community)
+- [WeDance](https://github.com/we-dance/community)
 
 ## Event List
 
