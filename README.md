@@ -2,6 +2,8 @@
 
 > A curated list of awesome dance apps and services
 
+Contributions are welcomed. Add or update links through pull requests.
+
 ## Communities
 
 - [WeDance](https://github.com/we-dance/community)
