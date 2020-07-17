@@ -26,3 +26,7 @@ Contributions are welcomed. Add or update links through pull requests.
 
 - [Salsa Beat Machine](https://salsabeatmachine.org/)
 - [Visual Salsa](https://www.visualsalsa.com/) enables you to experience the rhythm of Salsa Music in a visual way, train your ears, brain and legs into feeling the rhythm.
+
+## DJ Software
+
+- [djay](https://www.algoriddim.com/) - The complete DJ software for all DJs
