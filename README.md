@@ -20,6 +20,7 @@ Contributions are welcomed. Add or update links through pull requests.
 
 - [danzery](https://danzery.com/) - Online live classes around the world
 - [e-dancer](https://e-dancer.com/) - Digital dance school
+- [Salsa Yo](https://salsayo.com/) - Source for all Salsa moves
 
 ## Tools
 
