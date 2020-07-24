@@ -6,7 +6,7 @@ Contributions are welcomed. Add or update links through pull requests.
 
 ## Communities
 
-- [WeDance](https://github.com/we-dance/community)
+- [WeDance Foundation](https://github.com/we-dance/foundation)
 
 ## Event List
 
@@ -15,12 +15,6 @@ Contributions are welcomed. Add or update links through pull requests.
 - [salsero](https://www.salsero.es/) - Find events in Spain
 - [iDanceSocial](https://www.idancesocial.com/) - A platform made for the dancer in you!
 - [Bailaqui](http://www.bailaqui.com/) - We help dancers find bars, clubs, schools and festivals. For Salsa, Bachata, Kizomba, Tango, Swing, Zouk. Get our iPhone & Android App.
-
-## Online Classes
-
-- [danzery](https://danzery.com/) - Online live classes around the world
-- [e-dancer](https://e-dancer.com/) - Digital dance school
-- [Salsa Yo](https://salsayo.com/) - Source for all Salsa moves
 
 ## Tools
 
@@ -31,3 +25,14 @@ Contributions are welcomed. Add or update links through pull requests.
 
 - [djay](https://www.algoriddim.com/) - The complete DJ software for all DJs
 - [YOU.DJ](https://you.dj/) - Mix Music Online for free
+
+
+## Online Classes
+
+- [danzery](https://danzery.com/) - Online live classes around the world
+- [e-dancer](https://e-dancer.com/) - Digital dance school
+- [Salsa Yo](https://salsayo.com/) - Source for all Salsa moves
+
+## Blogs
+
+- [Son y Casino](https://sonycasino.com/) - A blog for reflecting on son music and the dance of casino.
