@@ -40,3 +40,4 @@ Contributions are welcomed. Add or update links through pull requests.
 ## Blogs
 
 - [Son y Casino](https://sonycasino.com/) - A blog for reflecting on son music and the dance of casino.
+- [The Dao of Dance](https://medium.com/the-dao-of-dance) - Dance is the Way.
