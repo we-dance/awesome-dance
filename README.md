@@ -8,6 +8,10 @@ Contributions are welcomed. Add or update links through pull requests.
 
 - [WeDance Foundation](https://github.com/we-dance/foundation)
 
+## Fundraisers
+
+- [4Water](http://4water.org/) is an international social enterprise, run exclusively by volunteers. Our we fundraise for the charity WaterAid by teaching skills such as dance, languages and yoga and organising events.
+
 ## Event List
 
 - [MapDance](https://mapdance.com/) - Dance network: where to dance tonight? How to learn?
