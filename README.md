@@ -6,7 +6,8 @@ Contributions are welcomed. Add or update links through pull requests.
 
 ## Communities
 
-- [WeDance Foundation](https://github.com/we-dance/foundation)
+- [WeDance Foundation](https://github.com/we-dance/foundation) – community of developers and dancers
+- [WeDance Platform](https://github.com/we-dance/platform) – community platform for dancers
 
 ## Fundraisers
 
