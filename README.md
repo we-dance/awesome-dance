@@ -4,9 +4,9 @@
 
 Contributions are welcomed. Add or update links through pull requests.
 
-## Communities
+## Community Platforms
 
-- [WeDance](https://wedance.vip) – international dance community
+- [WeDance](https://wedance.vip) – community platform for dancers
 - [WeDance Foundation](https://github.com/we-dance) – community of developers and dancers
 
 ## Fundraisers
