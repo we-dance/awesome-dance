@@ -15,6 +15,7 @@ Contributions are welcomed. Add or update links through pull requests.
 
 ## Event List
 
+- [Social Dance Today](https://social-dance.today) - Global Social Party Index 
 - [99dances](https://99dances.com/) - Learn to dance, find parties, jobs, buy and sell dance accessories, clothes, shoes, tickets
 - [Bailaqui](http://www.bailaqui.com/) - We help dancers find bars, clubs, schools and festivals. For Salsa, Bachata, Kizomba, Tango, Swing, Zouk. Get our iPhone & Android App.
 - [DanceEvents](https://dance-events.info) - A portal for partner dance events, especially online and regional ones per city during these times.
