@@ -27,6 +27,7 @@ Contributions are welcomed. Add or update links through pull requests.
 
 - [BPMonline](http://www.beatsperminuteonline.com/) - free online tool that allows you to calculate tempo and count Beats Per Minute (BPM) by tapping any key to the rhythm or beat.
 - [Salsa Beat Machine](https://salsabeatmachine.org/)
+- [Stancz](https://stancz.com/) - choreography tool to place dancers on stage, build formations and play transitions in sync with the music, in 2D, 3D and from the audience's point of view.
 - [Visual Salsa](https://www.visualsalsa.com/) enables you to experience the rhythm of Salsa Music in a visual way, train your ears, brain and legs into feeling the rhythm.
 
 ## DJ Software
